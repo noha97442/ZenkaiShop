@@ -56,7 +56,7 @@ a:hover {
 
 .hero-img {
     width: 100%; /* Redimensionne en fonction de la largeur du conteneur parent */
-    height: 50px; /* Maintient les proportions de l'image */
+    height: 150px; /* Maintient les proportions de l'image */
     max-width: 1000px; /* Limite la largeur maximale de l'image */
     margin: 0 auto; /* Centre l'image si nécessaire */
 }
@@ -147,6 +147,7 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
 
 
 
