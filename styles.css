@@ -50,9 +50,17 @@ a:hover {
 }
 
 .hero-img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 10px;
 }
+
+.hero-img {
+    width: 100%; /* Redimensionne en fonction de la largeur du conteneur parent */
+    height: auto; /* Maintient les proportions de l'image */
+    max-width: 1200px; /* Limite la largeur maximale de l'image */
+    margin: 0 auto; /* Centre l'image si nécessaire */
+}
+
 
 /* Product Section */
 .catalog-section {
@@ -140,4 +148,5 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
 
