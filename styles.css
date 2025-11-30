@@ -56,7 +56,7 @@ a:hover {
 
 .hero-img {
     width: 100%; /* Prend toute la largeur de l'écran */
-    height: 200px; /* Définit une hauteur fixe de 200px (ajustez selon vos besoins) */
+    height: 50px; /* Définit une hauteur fixe de 200px (ajustez selon vos besoins) */
     object-fit: cover; /* Maintient les proportions sans déformation */
 }
 
@@ -147,6 +147,7 @@ footer {
   padding: 20px;
   text-align: center;
 }
+
 
 
 
